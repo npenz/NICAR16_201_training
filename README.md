@@ -1,2 +1,2 @@
 # NICAR16_201_training
-training tips 
+## Github 201 hands on
